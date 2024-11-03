@@ -10,7 +10,7 @@
 
 Including the CAD files of PULSAR and the swashplateless mechanism.
 
-## 2 Hardware deisgn files
+## 2 Hardware design files
 
 Including the hardware design files of the magnetic encoder (AS5600).
 
